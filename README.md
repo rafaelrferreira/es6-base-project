@@ -3,6 +3,11 @@ Base project to be used on ES6+ Projects
 
 # Dev Stack:
 Babel, Javascript, VSCode
+| TECH | LINK |
+| ------ | ------ |
+| Babel | [https://babeljs.io/][PlDb] |
+| Javascript | [https://developer.mozilla.org/en-US/docs/Web/JavaScript][PlGh] |
+| VSCode | [https://code.visualstudio.com/][PlGh] |
 
 ## Getting Started
 git checkout
