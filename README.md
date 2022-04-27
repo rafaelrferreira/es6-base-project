@@ -34,7 +34,9 @@ criar .babelrc
 "presets": ["@babel/preset-env"]
 }
 
+```sh
 npm install i @babel/core @babel/cli @babel/preset-env --save-dev
+```
 
 node_modules/.bin/babel ./src/main.js -o ./public/bundle.js
 node_modules/.bin/babel ./src/main.js -o ./public/bundle.js -w
