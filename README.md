@@ -1,3 +1,4 @@
+![alt text](https://walde.co/wp-content/uploads/2016/05/es6-logo.png)
 # Es6-base-project
 Base project to be used on ES6+ Projects
 
