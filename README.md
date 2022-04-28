@@ -4,7 +4,8 @@
 Base project to be used on ES6+ Projects
 
 # Dev Stack:
-Babel, Javascript, VSCode
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vscode,npm)](https://skillicons.dev)
+
 | TECH | LINK |
 | ------ | ------ |
 | Babel | [https://babeljs.io/] |
