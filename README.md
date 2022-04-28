@@ -1,5 +1,4 @@
-![alt text](https://walde.co/wp-content/uploads/2016/05/es6-logo.png =120x120)
-<img src="https://walde.co/wp-content/uploads/2016/05/es6-logo.png" alt="es6 icon" width="120" height="120" />
+<img src="https://walde.co/wp-content/uploads/2016/05/es6-logo.png" alt="es6 icon" width="60" height="60" />
 
 # Es6-base-project
 Base project to be used on ES6+ Projects
