@@ -16,6 +16,7 @@
     "@babel/cli": "^7.17.6",
     "@babel/core": "^7.17.9",
     "@babel/preset-env": "^7.16.11",
-    "i": "^0.3.7"
+    "i": "^0.3.7",
+    "npm-check-updates": "^12.5.10"
   }
 }
