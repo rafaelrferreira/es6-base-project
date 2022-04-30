@@ -31,6 +31,12 @@ This brings up a local webserver from which you can view your changes in a brows
 `npm dev`
 For easily keep *automatically* building stuff.
 
+## Other packages suggestions:
+- pm2
+- gulp
+- nodemon
+- JSHint
+
 ## Manually Replicate the same Project (GCAS - GIT CLONE AVERSION SYNDROME)
 ```sh
 mkdir es6plus
