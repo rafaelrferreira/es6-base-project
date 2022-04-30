@@ -5,7 +5,7 @@ const code = "Code Day and Night!";
 
 // Array operations - for.each / map / reduce / filter / findIndex
 
-// Arrow Function - Anonimous Function
+// Arrow Function - Anonymous Function
 
 // Parameter default value 
 
