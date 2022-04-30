@@ -18,6 +18,8 @@ Base project to be used on ES6+ Projects
 git clone [this repo]
 npm install
 ```
+## Front-End - Tailwind
+![image](https://user-images.githubusercontent.com/3987102/166125089-056f69bc-48c2-4ba7-8ee3-3b1e9186ec94.png)
 
 ## Building Stuff
 To build everything manually you can use 
