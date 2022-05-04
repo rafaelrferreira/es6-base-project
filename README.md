@@ -49,7 +49,7 @@ npm init -y
 git init
 ```
 
-- criar arquivo ".babelrc":
+- create file ".babelrc":
 ```sh{
 "presets": ["@babel/preset-env"]
 }
