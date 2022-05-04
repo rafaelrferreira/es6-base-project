@@ -61,11 +61,11 @@ npm install i @babel/core @babel/cli @babel/preset-env --save-dev
 
 - node_modules/.bin/babel ./src/main.js -o ./public/bundle.js
 - node_modules/.bin/babel ./src/main.js -o ./public/bundle.js -w
-obs: para usar npx -> node v > 5
+obs: to use npx -> node version > 5
 
 - npx babel ./src/main.js -o ./public/bundle.js -w
 
-- Scripts do arquivo package.json:
+- Scripts package.json:
 ```sh
 "scripts": {
   "dev": "babel ./src/main.js -o ./public/bundle.js -w",
