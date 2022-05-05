@@ -10,11 +10,11 @@ Base project to be used on ES6+ Projects
 
 | TECH | LINK |
 | ------ | ------ |
-| Babel | [https://babeljs.io/] |
-| Jest | [https://jestjs.io/] |
-| Javascript | [https://developer.mozilla.org/en-US/docs/Web/JavaScript] |
-| VSCode | [https://code.visualstudio.com/] |
-| NPM | [https://www.npmjs.com/] |
+| Babel | https://babeljs.io/ |
+| Jest | https://jestjs.io/ |
+| Javascript | https://developer.mozilla.org/en-US/docs/Web/JavaScript |
+| VSCode | https://code.visualstudio.com/ |
+| NPM | https://www.npmjs.com/ |
 
 ## Getting Started
 ```sh
