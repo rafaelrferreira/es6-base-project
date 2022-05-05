@@ -11,6 +11,7 @@ Base project to be used on ES6+ Projects
 | TECH | LINK |
 | ------ | ------ |
 | Babel | [https://babeljs.io/] |
+| Jest | [https://jestjs.io/] |
 | Javascript | [https://developer.mozilla.org/en-US/docs/Web/JavaScript] |
 | VSCode | [https://code.visualstudio.com/] |
 | NPM | [https://www.npmjs.com/] |
@@ -31,15 +32,18 @@ To build everything manually you can use
 `npm server`
 This brings up a local webserver from which you can view your changes in a browser.
 
+## Running tests and code coverage
+`npm test`
+
 ## Automatically Build & Refresh
 `npm dev`
 For easily keep *automatically* building stuff.
 
 ## Other packages suggestions:
-- pm2
-- gulp
-- nodemon
-- JSHint
+- Pm2
+- Gulp
+- Nodemon
+- Eslint
 
 ## Manually Replicate the same Project (GCAS - GIT CLONE AVERSION SYNDROME)
 ```sh
@@ -47,6 +51,7 @@ mkdir es6plus
 cd es6plus
 npm init -y
 git init
+jest --init
 ```
 
 - create file ".babelrc":
@@ -68,14 +73,17 @@ obs: to use npx -> node version > 5
 - Scripts package.json:
 ```sh
 "scripts": {
-  "dev": "babel ./src/main.js -o ./public/bundle.js -w",
-  "test": "echo \"Error: no test specified\" && exit 1"
+    "server": "http-server -o",
+    "dev": "babel ./src/main.js -o ./public/bundle.js -w",
+    "test": "jest --coverage",
+    "test:watch": "jest --watch"
 }
 ```
 
-- Execute:
+- Execute Project and Tests:
 ```sh
 npm run dev
+npm test
 ```
 
 - create folder/file: public > index.html
