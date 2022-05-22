@@ -1,6 +1,6 @@
 <img src="https://walde.co/wp-content/uploads/2016/05/es6-logo.png" alt="es6 icon" width="60" height="60" />
 
-<img src="https://img.shields.io/github/v/release/rafaelrferreira/es6-base-project?label=es6-base-project&style=for-the-badge" /> <img src="https://img.shields.io/github/languages/code-size/rafaelrferreira/es6-base-project?style=for-the-badge" /> <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/rafaelrferreira/es6-base-project" /> <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/rafaelrferreira/es6-base-project" />
+<img src="https://img.shields.io/github/v/release/rafaelrferreira/es6-base-project?label=es6-base-project&style=for-the-badge" /> <img src="https://img.shields.io/github/languages/code-size/rafaelrferreira/es6-base-project?style=for-the-badge" /> <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/rafaelrferreira/es6-base-project" /> <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/rafaelrferreira/es6-base-project" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/rafaelrferreira/es6-base-project" />
 
 # Es6-base-project
 Base project to be used on ES6+ Projects
